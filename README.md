@@ -144,14 +144,20 @@ FROM retail_sales_cleaned;
 ## 📊 Step 4: Power BI Dashboard
 Data Source: MySQL Database
 Data Modeling: Relationships established between fact and dimension tables:
+
   ❶ fact_sales.CustomerID → dim_customers.CustomerID
-	❷ fact_sales.StockCode → dim_products.StockCode
-	❸ fact_sales.InvoiceDate → dim_calendar.InvoiceDate
+  
+  ❷ fact_sales.StockCode → dim_products.StockCode
+  
+  ❸ fact_sales.InvoiceDate → dim_calendar.InvoiceDate
 
 ### 📄 Report Pages Created
 1️⃣ Executive Summary
+
 2️⃣ Manager Overview
+
 3️⃣ Customer Details
+
 4️⃣ Product Insights
 
 
@@ -170,11 +176,17 @@ Retail-Sales-Analysis/
 
 ### 🧾 Data Cleaning & Transformation Summary
 ✅ Removed missing product descriptions (necessary for item-level analysis)
+
 ✅ Removed missing customer IDs (for accurate segmentation)
+
 ✅ Tagged each transaction as Sale or Return
+
 ✅ Created TotalPrice for revenue calculation
+
 ✅ Converted dates to datetime
+
 ✅ Extracted Year, Quarter, Month for time-based reporting
+
 ✅ Removed duplicate rows
 
 
