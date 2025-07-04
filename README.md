@@ -151,6 +151,7 @@ Data Modeling: Relationships established between fact and dimension tables:
   
   ❸ fact_sales.InvoiceDate → dim_calendar.InvoiceDate
 
+
 ### 📄 Report Pages Created
 1️⃣ Executive Summary
 
