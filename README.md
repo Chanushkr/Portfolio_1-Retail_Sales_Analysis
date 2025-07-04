@@ -191,7 +191,7 @@ Retail-Sales-Analysis/
 ✅ Removed duplicate rows
 
 
-### 🙋‍♂️ Author
+## 🙋‍♂️ Author
 KR Chanush
 🧠 Data Analyst & BI Enthusiast | Learning Data Science
 🔗 Connect on LinkedIn
