@@ -193,8 +193,11 @@ Retail-Sales-Analysis/
 
 ## 🙋‍♂️ Author
 KR Chanush
+
 🧠 Data Analyst & BI Enthusiast | Learning Data Science
+
 🔗 Connect on LinkedIn
+
 
 
 ⭐ If you found this project helpful, give it a ⭐ and share it with your network!
